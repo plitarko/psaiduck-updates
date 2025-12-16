@@ -7,6 +7,30 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.1</title>
+            <description>
+                <![CDATA[
+                    <h2>TextExplainer v1.1</h2>
+                    <ul>
+                        <li>Renamed "Change Hotkey" to "Change Hotkeys"</li>
+                        <li>Fixed small app icons</li>
+                        <li>Updated Sparkle feed URL</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/plitarko/TextExplainer/releases/download/v1.1/TextExplainer-v1.1.zip"
+                length="3493141"
+                sparkle:edSignature="XKUeeY3IZWTQW9TacGHIOeSfqLO94FskK0r92kyzGQdEnyEVm4AMUngk78dH2J7pHXLz20r7wTdfVEivaXEjBg=="
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 1.0</title>
             <description>
                 <![CDATA[
