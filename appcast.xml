@@ -26,7 +26,7 @@
             <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/plitarko/textexplainer-updates/raw/main/TextExplainer-v1.2.zip"
+                url="https://raw.githubusercontent.com/plitarko/textexplainer-updates/main/TextExplainer-v1.2.zip"
                 length="3445237"
                 sparkle:edSignature="buaQ4hny2Omxl/OJEypdZWmBJU800d1nECxqJXsj2hcMyoWPiNaVI2/Xv7EqRQ0CWI9iX4yBbDkGriKiNQAYCQ=="
                 type="application/octet-stream"
@@ -50,7 +50,7 @@
             <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/plitarko/textexplainer-updates/raw/main/TextExplainer-v1.1.zip"
+                url="https://raw.githubusercontent.com/plitarko/textexplainer-updates/main/TextExplainer-v1.1.zip"
                 length="3493141"
                 sparkle:edSignature="XKUeeY3IZWTQW9TacGHIOeSfqLO94FskK0r92kyzGQdEnyEVm4AMUngk78dH2J7pHXLz20r7wTdfVEivaXEjBg=="
                 type="application/octet-stream"
