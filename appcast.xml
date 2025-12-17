@@ -7,6 +7,29 @@
         <language>en</language>
 
         <item>
+            <title>Version 2.2</title>
+            <description>
+                <![CDATA[
+                    <h2>Psaiduck v2.2</h2>
+                    <ul>
+                        <li>Changed accent color from blue to purple to match app icon</li>
+                        <li>All buttons and hover effects now use purple theme</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>Wed, 18 Dec 2025 02:00:00 +0000</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>2.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://raw.githubusercontent.com/plitarko/psaiduck-updates/main/Psaiduck-v2.2.zip"
+                length="5688180"
+                sparkle:edSignature="0NexcvszuHb7Tb3l31pgnUF491tRUCp/1zBgrmqOioY7ODid+Jpc4Ri+fsHQfiGKZd7oGbemEebFXr0XbyPsDA=="
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 2.1</title>
             <description>
                 <![CDATA[
