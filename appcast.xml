@@ -27,8 +27,8 @@
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <enclosure
                 url="https://raw.githubusercontent.com/plitarko/psaiduck-updates/main/Psaiduck-v2.4.zip"
-                length="5717672"
-                sparkle:edSignature="dOBBykR2ZyvPU89q5pWSLKpUTWvlUBdRygEHb+d/j3rdNk7TQ7bXoViI/8HA9NSTv+wB8kRabPVXB7pUbXGCDA=="
+                length="5717664"
+                sparkle:edSignature="VWUHDrg3g4DhtOZ7rybPExq8RVyNFvbdz8D/vydYACW1d63DI92F2u2kToK3lZi92wOg+PO4AV97Hs5kttI0CQ=="
                 type="application/octet-stream"
             />
         </item>
