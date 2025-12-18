@@ -7,6 +7,33 @@
         <language>en</language>
 
         <item>
+            <title>Version 2.4</title>
+            <description>
+                <![CDATA[
+                    <h2>Psaiduck v2.4</h2>
+                    <ul>
+                        <li>Added all GPT-5 models (5.2, 5.1, 5, Mini, Nano)</li>
+                        <li>Added o-series reasoning models (o3, o3-mini, o1)</li>
+                        <li>Model selector for each custom action</li>
+                        <li>Follow-up prompt settings with model selector</li>
+                        <li>"Which model should I use?" help with pricing comparison</li>
+                        <li>GPT-5.2 set as the default model</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>Wed, 18 Dec 2025 20:40:00 +0000</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>2.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://raw.githubusercontent.com/plitarko/psaiduck-updates/main/Psaiduck-v2.4.zip"
+                length="5717672"
+                sparkle:edSignature="dOBBykR2ZyvPU89q5pWSLKpUTWvlUBdRygEHb+d/j3rdNk7TQ7bXoViI/8HA9NSTv+wB8kRabPVXB7pUbXGCDA=="
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 2.3</title>
             <description>
                 <![CDATA[
