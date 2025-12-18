@@ -7,6 +7,31 @@
         <language>en</language>
 
         <item>
+            <title>Version 2.3</title>
+            <description>
+                <![CDATA[
+                    <h2>Psaiduck v2.3</h2>
+                    <ul>
+                        <li>Made Edit button more obvious with bordered style</li>
+                        <li>Added delete confirmation dialog for actions</li>
+                        <li>Simplified version display in About dialog</li>
+                        <li>Made action editor modal larger</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>Thu, 19 Dec 2025 00:00:00 +0000</pubDate>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>2.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://raw.githubusercontent.com/plitarko/psaiduck-updates/main/Psaiduck-v2.3.zip"
+                length="5691484"
+                sparkle:edSignature="4CMHSgF7Zm+fKWzyLFPM/0nwany9/wKPOPoMgzxMTWmOg6K9n07zZMpbR5QMAqXQFdWbzgwyBOEZM458vKjCDw=="
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 2.2</title>
             <description>
                 <![CDATA[
