@@ -7,6 +7,30 @@
         <language>en</language>
 
         <item>
+            <title>Version 2.5</title>
+            <description>
+                <![CDATA[
+                    <h2>Psaiduck v2.5</h2>
+                    <ul>
+                        <li>Changed default model from GPT-5.2 to GPT-4o Mini</li>
+                        <li>Fixed auto-scroll during streaming: stops when user scrolls up</li>
+                        <li>Auto-scroll resumes on next prompt or follow-up</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>Thu, 19 Dec 2025 18:40:00 +0000</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>2.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://raw.githubusercontent.com/plitarko/psaiduck-updates/main/Psaiduck-v2.5.zip"
+                length="5896326"
+                sparkle:edSignature="CRE6il+Qn1UTLKtB3U+t6/rdUqKOWF7lMqZSldfPBNY2Zed40nTzMzFEdofJffkYU/7wQWUYFK9+SO9LfEcrDw=="
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 2.4</title>
             <description>
                 <![CDATA[
